@@ -1,2 +1,0 @@
-username,password,email
-LnpUser_HM03,Test@123,LnpUser_HM03@gmail.com
